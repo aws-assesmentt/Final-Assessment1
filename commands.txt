@@ -1,0 +1,15 @@
+git clone -> to clone the repository in to your local
+
+git checkout -b <branch-name>  -. creating a new branch and changing to that branch 
+
+git checkout <branch_name> -> Changing the branch
+
+git add <file_name> -> adds file to the git 
+
+git add . -> adds all changes to the git 
+
+git commit -m "<message>" -> It commits the changes added to the staging area with a message.
+
+git pull -> update your local with the remote changes 
+
+git push -> Push all your changes to remote repository
